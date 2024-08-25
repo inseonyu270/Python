@@ -26,5 +26,24 @@ print()
 li = [10, 20, 30, 40]
 
 print(li[0:3])
-print(li[0:3])
+print(li[0:2])
 print(li[::3])
+
+
+## 요소의 추가와 삭제 ##
+## 추가 ##
+# 새로운 요소를 추가할때는 append(), insert() 메서드 사용
+# append() 항상 마지막 요소로 추가
+# insert() 추가할 인덱스(위치 정보)를 지정
+print()
+
+
+scores = [50, 40, 30]
+scores.append(100)      # 마지막 요소에 100을 추가
+                        # list 가지고 있는 append()를 사용하겠다.
+                        # . (~안에)
+
+print(scores)           # 현재 list의 상태 : [50, 40, 30, 100]
+print(scores[3])        # 100
+scores.insert(1, 30)    # 현재 list의 상태 : [50, 30, 40, 30, 100]
+print(scores)
