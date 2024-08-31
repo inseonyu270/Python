@@ -2,7 +2,7 @@
 
 - Python learing
 
-# Index
+Index
 
 |-|-|-|
 |-|-|-|
