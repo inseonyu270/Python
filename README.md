@@ -19,6 +19,7 @@
 |10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|-|
 
 Py Basic
+
 |-|-|-|
 |-|-|-|
 |Number|Py|-|
