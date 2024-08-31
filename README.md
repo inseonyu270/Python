@@ -16,4 +16,4 @@
 |7|-|-|
 |8|-|-|
 |9|-|-|
-|10|-|-|
+|10|[IndexingPrac](./Python/1_Py_Basic/IndexingPrac.py)|-|
