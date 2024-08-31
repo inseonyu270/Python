@@ -47,3 +47,35 @@ print(scores)           # 현재 list의 상태 : [50, 40, 30, 100]
 print(scores[3])        # 100
 scores.insert(1, 30)    # 현재 list의 상태 : [50, 30, 40, 30, 100]
 print(scores)
+
+
+## 삭제 ## 이승기 삭제
+# pop() : 인덱스를 전달하지 않으면 마지막 요소를 삭제
+# 인덱스를 전달하면 인덱스의 요소를 삭제
+print()
+scores.pop()            #마지막 요소 삭제
+print(scores)
+scores.pop(1)           # 1번 인덱스 요소를 삭제
+print(scores)
+
+scores[0] = 60          # 0번째 index 자리에 60을 넣겠다(50은 삭제가 되고, 60이 삽입)
+print(scores)
+
+
+# del           : 키워드(예악어)
+# 형식 #
+# del list_name[Index_number]
+print()
+del scores[1]
+print(scores)
+
+# 슬라이싱을 위해 값 추가
+scores.append(100)
+scores.append(110)
+scores.append(120)
+scores.append(130)
+scores.append(140)
+print(scores)
+
+del scores[0:3]
+print(scores)
