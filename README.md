@@ -1,7 +1,7 @@
 # Python
 
 - Python learing
-
+---
 # Index
 
 |-|-|-|
