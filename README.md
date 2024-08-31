@@ -3,7 +3,7 @@
 - Python learing
 
 # Index
----
+
 |-|-|-|
 |-|-|-|
 |Number|1_Py_Basic|2_Collection|
