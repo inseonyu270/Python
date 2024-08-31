@@ -17,3 +17,12 @@
 |8|-|-|
 |9|[IndexingPrac](./Python/1_Py_Basic/IndexingPrac.py)|-|
 |10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|-|
+
+# Py Basic
+|-|-|-|
+|-|-|-|
+|Number|Py|-|
+|1|-|-|
+|2|-|-|
+|3|-|-|
+|4|-|-|
