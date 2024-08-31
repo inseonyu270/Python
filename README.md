@@ -2,7 +2,7 @@
 
 - Python learing
 
-Index
+# Index
 
 |-|-|-|
 |-|-|-|
@@ -18,7 +18,7 @@ Index
 |9|[IndexingPrac](./Python/1_Py_Basic/IndexingPrac.py)|-|
 |10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|-|
 
-# Py Basic
+Py Basic
 |-|-|-|
 |-|-|-|
 |Number|Py|-|
