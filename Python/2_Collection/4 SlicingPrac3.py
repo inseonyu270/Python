@@ -20,6 +20,7 @@ print(num1 +'의 차량번호 4자리는', num1_no + '입니다.')
 print(num2 +'의 차량번호 4자리는', num2_no + '입니다.')
 print(num3 +'의 차량번호 4자리는', num3_no + '입니다.')
 
+# print() Option
 print(num1, '의 차량번호 4자리는 ', num1_no, '입니다.', sep='')
 print(num2, '의 차량번호 4자리는 ', num2_no, '입니다.', sep='')
 print(num3, '의 차량번호 4자리는 ', num3_no, '입니다.', sep='')
