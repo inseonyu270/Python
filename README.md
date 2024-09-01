@@ -11,9 +11,9 @@
 |3|[바로가기](./Python/1_Py_Basic/3.py)|-|
 |4|[바로가기](./Python/1_Py_Basic/4.py)|-|
 |5|[int](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/5%20int.py)|-|
-|6|-|-|
-|7|-|-|
-|8|-|-|
+|6|[float](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/6%20float.py)|-|
+|7|[bool](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/7%20bool.py)|-|
+|8|[str](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/8%20str.py)|-|
 |9|[IndexingPrac](./Python/1_Py_Basic/IndexingPrac.py)|-|
 |10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|-|
 
