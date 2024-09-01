@@ -13,7 +13,7 @@
 |5|[int](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/5%20int.py)|[Set](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/5%20Set.py)|[input_month_prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/5%20input_month_prac.py)|
 |6|[float](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/6%20float.py)|[Disctionart](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/6%20dict.py)|[english_dictionary](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/6%20english_dictionary.py)|
 |7|[bool](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/7%20bool.py)|[Escape](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/7%20Escape.py)|[mathematicla_journey](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/7%20mathematical_journey.py)|
-|8|[str](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/8%20str.py)|[%Operator](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/8%20%25Operator.py)|-|
+|8|[str](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/8%20str.py)|[%Operator](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/8%20%25Operator.py)|[산술연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/8%20산술연산자.py)|
 |9|[IndexingPrac](./Python/1_Py_Basic/IndexingPrac.py)|[format메서드](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/9%20format%EB%A9%94%EC%84%9C%EB%93%9C.py)|-|
 |10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|[f-strings](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/10%20f-strings.py)||
 
