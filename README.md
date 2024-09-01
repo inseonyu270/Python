@@ -7,7 +7,7 @@
 |Number|1_Py_Basic|2_Collection|3_Input_Operator|
 |-|-|-|-|
 |1|[바로가기](./Python/1_Py_Basic/1.py)|[list](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/1%20list.py)|[input](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/1%20input.py)|
-|2|[바로가기](./Python/1_Py_Basic/2.py)|[tuple](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/2%20tuple.py)|-|
+|2|[바로가기](./Python/1_Py_Basic/2.py)|[tuple](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/2%20tuple.py)|[input_prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/2%20input_prac.py)|
 |3|[바로가기](./Python/1_Py_Basic/3.py)|[SlicingPrac2](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/3%20SlicingPrac2.py)|-|
 |4|[바로가기](./Python/1_Py_Basic/4.py)|[SlicingPrac3](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/3%20SlicingPrac3.py)|-|
 |5|[int](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/5%20int.py)|[Set](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/5%20Set.py)|-|
