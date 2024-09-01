@@ -15,7 +15,7 @@
 |7|[bool](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/7%20bool.py)|[Escape](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/7%20Escape.py)|-|
 |8|[str](https://github.com/inseonyu270/Python/blob/main/Python/1_Py_Basic/8%20str.py)|[%Operator](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/8%20%25Operator.py)|-|
 |9|[IndexingPrac](./Python/1_Py_Basic/IndexingPrac.py)|[format메서드](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/9%20format%EB%A9%94%EC%84%9C%EB%93%9C.py)|-|
-|10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|-|
+|10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|[f-strings](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/10%20f-strings.py)|
 
 <!--Py Basic
 |-|-|-|
