@@ -27,6 +27,10 @@ print(f'입력된 나이는 {age}살입니다.')
 #print('입력된 이름은 %s입니다.' %name)
 #print('입력된 나이는 %d입니다.' %age)    
 
+# + 연산자
+#print('입력된 이름은 ' + name + '입니다.')
+#print('입력된 나이는 ' + age + '입니다.')
+
 # print() sep옵션
 #print('입력된 이름은 ', name, '입니다.', sep='')
 #print('입력된 나이는 ', age, '입니다.', sep='')
