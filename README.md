@@ -17,13 +17,13 @@
 |9|[IndexingPrac](./Python/1_Py_Basic/IndexingPrac.py)|[format메서드](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/9%20format%EB%A9%94%EC%84%9C%EB%93%9C.py)|[대입연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/9%20대입연산자.py)|
 |10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|[f-strings](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/10%20f-strings.py)|[비교연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/10%20비교연산자.py)|
 |11|||[논리연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/11%20논리연산자.py)|
-|12|||시퀀스연산자|
-|13|||삼항연산자|
-|14|
-|15|
-|16|
-|17|
-|18|
+|12|||[시퀀스연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/12%20시퀀스연산자.py)|
+|13|||[삼항연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/13%20삼항연산자.py)|
+|14|||[멤버쉽연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/14%20멤버쉽연산자.py)
+|15|||[임의의 정수](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/15%20임의의%20정수.py)
+|16|||[임의의 초](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/16%20임의의%20초.py)
+|17|||[사원prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/17%20사원prac.py)
+|18|||[합격prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/18%20합격prac.py)
 <!--Py Basic
 |-|-|-|
 |-|-|-|
