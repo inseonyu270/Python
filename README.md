@@ -18,6 +18,7 @@
 |10|[SlicingPrac](./Python/1_Py_Basic/SlicingPrac.py)|[f-strings](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/10%20f-strings.py)|[비교연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/10%20비교연산자.py)|
 |11|||[논리연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/11%20논리연산자.py)|
 |12|||시퀀스연산자|
+|13|||삼항연산자|
 <!--Py Basic
 |-|-|-|
 |-|-|-|
