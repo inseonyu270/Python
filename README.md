@@ -19,6 +19,11 @@
 |11|||[논리연산자](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/11%20논리연산자.py)|
 |12|||시퀀스연산자|
 |13|||삼항연산자|
+|14|
+|15|
+|16|
+|17|
+|18|
 <!--Py Basic
 |-|-|-|
 |-|-|-|
