@@ -22,3 +22,23 @@ while n <= 10:
     n += 1
 
 print(f'탈출 후의 n의 값 : {n}')
+
+
+
+## while문 중첩 ##
+# while문 내부에 또 다른 while문이 나타나는 것
+
+
+day = 1
+while day <= 5:
+    hour = 1
+    while hour <= 3:
+        print(f'{day}일차 {hour}교시 입니다.')
+        hour += 1
+    day += 1
+
+
+## 무한 루프 - while 문 ##
+while True:         # 무한 루프(반복), 숫자 1도 가능
+# while 1:
+    print('ㅋ', end='') # ㅋ 출력 후 Enter를 치지 않겠다
