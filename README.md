@@ -28,9 +28,9 @@
 |Number|5_Method_Function||
 |-|-|-|
 |1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)
-|2|-|
-|3|-|
-|4|-|
+|2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|
+|3|[List_Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/3%20List_Method.py)|
+|4|[Custom_Function](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/4%20Custom_Function.py)|
 |5|-|
 |6|-|
 |7|-|
