@@ -25,18 +25,18 @@
 |17|||[사원prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/17%20사원prac.py)||
 |18|||[합격prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/18%20합격prac.py)||
 
-|Number|5_Method_Function|
+|Number|5_Method_Function||
 |-|-|-|
 |1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)
-|2|
-|3|
-|4|
-|5|
-|6|
-|7|
-|8|
-|9|
-|10|
+|2|-|
+|3|-|
+|4|-|
+|5|-|
+|6|-|
+|7|-|
+|8|-|
+|9|-|
+|10|-|
 <!--Py Basic
 |-|-|-|
 |-|-|-|
