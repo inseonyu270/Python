@@ -67,3 +67,70 @@ s = 'BEST of best'
 print(s.uperr())
 print(s.lower())
 print(s.capitalize())
+
+
+# 6) join()
+# 인수로 전달한 반복가능객체(문자열, 리스트 등)의 각 요소 사이에
+# 문자열을 포함시켜 새로운 문자열을 만들고
+print()
+
+
+print('-'.join('python'))
+
+print('+'.join(['a', 'b', 'c', 'd', 'e']))
+
+# 포함하는 문자 없이 단순하게 리스트의 요소들을 연결하고자 한다면 빈 문자열 사용
+
+print(''.join(['x', 'y', 'z']))
+
+a = {'a':'apple', 'b':'banana'}
+print(''.join(a))   # ab        - 딕셔너리의 경우 key 값을 연결시킨다.
+
+
+# 7) split()
+# 하나의 문자열을 여러 개의 문자열로 분리해서 저장한 리스트를 반환
+print()
+
+s = 'Life is too short'
+s2 = s.split()
+print(s)
+print(s2)
+
+s = '010-1234-2567'
+s2 = s.split('-')
+print(s2)
+
+
+# 8) reaplace()
+# 문자열의 일부 문자열을 다른 문자열을 바꾼 결과를 반환
+print()
+
+s = 'Life is too short'
+s2 = s.replace('short', 'long')         # short라는 문자를 long으로 대체하겠다.
+print(s2)
+
+
+# 특정 문자열을 제거하기 위한 용도로 사용
+s = '010-1234-5678'
+s2 = s.replace('-', '')
+print(s2)
+
+
+# 9) 불필요한 문자열 제거 메서드
+# 문자열 양끝에 있는 불필요한 문자열을 제거
+# lstrip() : 왼쪽 끝에 있는 불필요한 문자열을 제거한 결과를 반환
+# rstrip() : 오른쪽 끝에 있는 불필요한 문자열을 제거한 결과를 반환
+# strip()  : 양쪽 끝에 있는 불필요한 문자열을 제거한 결과를 반환
+print()
+
+s = '           apple'
+print(s)
+
+s2 = s.strip()      # default 제거 문자 : 공백
+print(s2)
+
+# 공백 문자 이외에 불필요한 문자열을 직접 지정하여 제거 
+s = '<head'
+s = s.strip('<')
+print(s)
+
