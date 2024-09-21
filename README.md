@@ -4,7 +4,7 @@
 
 # Index
 
-|Number|1_Py_Basic|2_Collection|3_Input_Operator|4_If_While|5_Method_Function
+|Number|1_Py_Basic|2_Collection|3_Input_Operator|4_If_While|5_Method_Function|
 |-|-|-|-|-|
 |1|[바로가기](./Python/1_Py_Basic/1.py)|[list](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/1%20list.py)|[input](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/1%20input.py)|[if](https://github.com/inseonyu270/Python/blob/main/Python/4_If_While/1%20if.py)|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)
 |2|[바로가기](./Python/1_Py_Basic/2.py)|[tuple](https://github.com/inseonyu270/Python/blob/main/Python/2_Collection/2%20tuple.py)|[input_prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/2%20input_prac.py)|[ifPrac](https://github.com/inseonyu270/Python/blob/main/Python/4_If_While/2%20if_Prac.py)
