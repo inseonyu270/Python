@@ -27,7 +27,7 @@
 
 |Number|5_Method_Function|6_Module|
 |-|-|-|
-|1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py)[(converter)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/converter.py)
+|1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py) [(converter)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/converter.py)
 |2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|
 |3|[List_Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/3%20List_Method.py)|
 |4|[Custom_Function](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/4%20Custom_Function.py)|
