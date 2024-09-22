@@ -31,10 +31,10 @@
 |2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|
 |3|[List_Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/3%20List_Method.py)|
 |4|[Custom_Function](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/4%20Custom_Function.py)|
-|5|-|
-|6|-|
-|7|-|
-|8|-|
+|5|[Args_Parameter](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/5%20Args_Parameter.py)|
+|6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|
+|7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)|
+|8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)|
 |9|-|
 |10|-|
 <!--Py Basic
