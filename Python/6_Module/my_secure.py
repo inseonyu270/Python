@@ -10,13 +10,10 @@
 
 
 def secure_name(name):
-    return name[0] + '**'
-
-
+    return name[0] + "**"
 
 def secure_no(num):
-    return num[:8] + '******'
-    
-    
+    return num[:8] + "******"
+
 def secure_phone(phone):
-    return phone[:4] + '****'
+    return phone.replace(phone[4:8], "****")
