@@ -25,14 +25,14 @@
 |17|||[사원prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/17%20사원prac.py)||
 |18|||[합격prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/18%20합격prac.py)||
 
-|Number|5_Method_Function|6_Module|
+|Number|5_Method_Function|6_Module|7_Class|
 |-|-|-|
-|1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py) [(converter)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/converter.py)
-|2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|
-|3|[List_Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/3%20List_Method.py)|
-|4|[Custom_Function](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/4%20Custom_Function.py)|
-|5|[Args_Parameter](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/5%20Args_Parameter.py)|
-|6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|
+|1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py) [(converter)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/converter.py)|
+|2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|[my_secure_Prac](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/2%20my_secure_Prac.py)[(my_secure)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/my_secure.py)
+|3|[List_Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/3%20List_Method.py)|[random_Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/3%20random_Module.py)
+|4|[Custom_Function](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/4%20Custom_Function.py)|[time_Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/4%20time_Module.py)
+|5|[Args_Parameter](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/5%20Args_Parameter.py)|[updown_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/5%20updown_game.py)
+|6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|[dice_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/6%20dice_game.py)
 |7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)|
 |8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)|
 |9|-|
