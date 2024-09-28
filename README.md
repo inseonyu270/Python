@@ -26,7 +26,7 @@
 |18|||[합격prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/18%20합격prac.py)||
 
 |Number|5_Method_Function|6_Module|7_Class|
-|-|-|-|
+|-|-|-|-|
 |1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py)|[import](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/1%20import.py)
 |2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|[my_secure_Prac](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/2%20my_secure_Prac.py)|
 |3|[List_Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/3%20List_Method.py)|[random_Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/3%20random_Module.py)|
