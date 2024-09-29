@@ -35,8 +35,8 @@
 |6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|[dice_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/6%20dice_game.py)|[Class_Object](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/6%20Class_Object.py)
 |7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)||
 |8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||
-|9|-|-|
-|10|-|-|
+|9|||
+|10|||
 <!--Py Basic
 |-|-|-|
 |-|-|-|
