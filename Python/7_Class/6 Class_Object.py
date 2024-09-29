@@ -42,5 +42,39 @@
 
 
 # 5. 클래스의 정의와 객체 생성
-class WaffleMachine: #waffleMachine 이라는 클래스 저으이
+class WaffleMachine: #waffleMachine 이라는 클래스 정의
     pass
+
+
+waffle1 = WaffleMachine()       # WaffleMachine이라는 클래스를 이용해 waffle1이라는 객체 생성
+waffle2 = WaffleMachine()
+
+
+print( waffle1 )
+
+# <__main__.WaffleMachine object at 0x000002199467FDA0 : 메모리의 0x000002199467FDA0번지에
+# 저장된 WaffleMachine의 객체라는 읨
+print( waffle2 )
+
+
+class Car:
+    def __init__(self, make, model):
+        self.make = make
+        self.model = model
+    
+    
+    def acclerate(self):
+        print(self.make + "차가 가속합니다")
+
+car_object = Car(makje="hyundai", model="SUV")
+print(car_object.make)
+print(car_object.model)
+
+# car_boject = 인스턴스 : 인스턴스는 클래스로부터 생성된 구체적인 사례를 가리킨다.
+
+# 객체 : 클래스에 기반을 두고 있으며, 클래스는 객체를 만들기 위한 템플릿
+# 객체는 속성(데이터)와 메서드(동작)을 가질 수 있다.
+
+# 인스턴스 : 특정 클래스의 구체적인 실체를 나타낸다.
+# 클래스를 정의한 후에, 그 클래스를 기반으로 실제 데이터를 담는 객체를 생성하는 것을 '인스턴스화'라고 함.
+# 클래스의 인스턴스로 클래스에 정의된 속성과 메서드를 실제로 사용할 수 있다.
