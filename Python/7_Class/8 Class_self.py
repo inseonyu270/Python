@@ -16,7 +16,7 @@ obj1.print_value
 
 class Student:
     def __init__(self, name, korean, math, english, science):
-        self.name = name
+        self.name = name            # Student 객체의 이름 속성을 추가
         self.korean = korean
         self.math = math
         self.englsih = english
@@ -31,10 +31,10 @@ class Student:
         def to_string(self):
             # \t : 탭키만큼 이동시킨다.
             return f'{self.name}\t{self.get_sum()}\t{self.get_average()}'
-        
+
 
 students = {
-    Student("연하진", 92, 96, 98),
+    Student("연하진", 92, 96, 98, 100),
     Student("구지연", 76, 96, 94, 90)
 }
 
