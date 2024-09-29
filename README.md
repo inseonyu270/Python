@@ -33,8 +33,8 @@
 |4|[Custom_Function](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/4%20Custom_Function.py)|[time_Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/4%20time_Module.py)|[Class_step2](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/4%20Class_step2.py)
 |5|[Args_Parameter](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/5%20Args_Parameter.py)|[updown_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/5%20updown_game.py)|[Class_step3](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/5%20Class_step3.py)
 |6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|[dice_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/6%20dice_game.py)|[Class_Object](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/6%20Class_Object.py)
-|7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)||
-|8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||
+|7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)||[Class_Member](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/7%20Class_Member.py)
+|8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||[Class_self](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/8%20Class_self.py)
 |9|||
 |10|||
 <!--Py Basic
