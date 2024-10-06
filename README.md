@@ -27,7 +27,7 @@
 
 |Number|5_Method_Function|6_Module|7_Class|8_Class_Constructor|
 |-|-|-|-|-|
-|1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py) [(converter)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/converter.py)|[import](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/1%20import.py)
+|1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py) [(converter)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/converter.py)|[import](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/1%20import.py)|[init_del](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/1%20init_del.py)
 |2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|[my_secure_Prac](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/2%20my_secure_Prac.py) [(my_secure)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/my_secure.py)|[Class_necessity](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/2%20Class_necessity.py)
 |3|[List_Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/3%20List_Method.py)|[random_Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/3%20random_Module.py)|[Class_step1](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/3%20Class_step1.py)
 |4|[Custom_Function](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/4%20Custom_Function.py)|[time_Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/4%20time_Module.py)|[Class_step2](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/4%20Class_step2.py)
@@ -35,7 +35,7 @@
 |6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|[dice_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/6%20dice_game.py)|[Class_Object](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/6%20Class_Object.py)
 |7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)||[Class_Member](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/7%20Class_Member.py)
 |8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||[Class_self](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/8%20Class_self.py)
-|9|||
+|9||[Class_Prac](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/9%20Class_Prac.py)|
 |10|||
 <!--Py Basic
 |-|-|-|
