@@ -25,7 +25,7 @@
 |17|||[사원prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/17%20사원prac.py)||
 |18|||[합격prac](https://github.com/inseonyu270/Python/blob/main/Python/3_Input_Operator/18%20합격prac.py)||
 
-|Number|5_Method_Function|6_Module|7_Class|8_|
+|Number|5_Method_Function|6_Module|7_Class|8_Class_Constructor|
 |-|-|-|-|-|
 |1|[Method](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/1%20Method.py)|[Module](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/1%20Module.py) [(converter)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/converter.py)|[import](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/1%20import.py)
 |2|[MetHod_Prac](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/2%20Method_Prac.py)|[my_secure_Prac](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/2%20my_secure_Prac.py) [(my_secure)](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/my_secure.py)|[Class_necessity](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/2%20Class_necessity.py)
