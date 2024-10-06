@@ -35,7 +35,7 @@
 |6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|[dice_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/6%20dice_game.py)|[Class_Object](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/6%20Class_Object.py)|[Class_Person_Prac](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/6%20Class_Person_Prac.py)
 |7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)||[Class_Member](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/7%20Class_Member.py)|[Inheritance](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/7%20Inheritance.py)
 |8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||[Class_self](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/8%20Class_self.py)
-|9||[Class_Prac](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/9%20Class_Prac.py)|
+|9|||[Class_Prac](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/9%20Class_Prac.py)|
 |10|||
 <!--Py Basic
 |-|-|-|
