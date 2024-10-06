@@ -59,6 +59,17 @@ print( waffle1 )
 print( waffle2 )
 
 
+
+
+
+
+
+
+
+
+
+
+
 class Person:
     def __init__(self, name, age, address):
         self.name = name
@@ -66,6 +77,7 @@ class Person:
         self.address = address
 
 hong = Person("홍길동", 20, "대구")
+
 print(hong.name)
 print(hong.age)
 print(hong.address)
@@ -84,6 +96,7 @@ car_object = Car(make="hyundai", model="SUV")
 print(car_object.make)
 print(car_object.model)
 
+
 car_object.acclerate()
 
 # car_object = 인스턴스 : 인스턴스는 클래스로부터 생성된 구체적인 사례를 가리킨다.
@@ -91,6 +104,7 @@ car_object.acclerate()
 # 객체 : 클래스에 기반을 두고 있으며, 클래스는 객체를 만들기 위한 템플릿
 # 객체는 속성(데이터)와 메서드(동작)을 가질 수 있다.
 
-# 인스턴스 : 특정 클래스의 구체적인 실체를 나타낸다.
+# 인스턴스 : 특정 클래스의 구체적인 실체를 나타낸다
+# - 파생됨.
 # 클래스를 정의한 후에, 그 클래스를 기반으로 실제 데이터를 담는 객체를 생성하는 것을 '인스턴스화'라고 함.
 # 클래스의 인스턴스로 클래스에 정의된 속성과 메서드를 실제로 사용할 수 있다.
