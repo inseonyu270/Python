@@ -36,7 +36,19 @@
 |7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)||[Class_Member](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/7%20Class_Member.py)|[Inheritance](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/7%20Inheritance.py)
 |8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||[Class_self](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/8%20Class_self.py)
 |9|||[Class_Prac](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/9%20Class_Prac.py)|
-|10|||
+
+|Number|9_||||
+|-|-|-|-|-|
+|1|||
+|2|
+|3|
+|4|
+|5|
+|6|
+|7|
+|8|
+|9|
+|10|
 <!--Py Basic
 |-|-|-|
 |-|-|-|
