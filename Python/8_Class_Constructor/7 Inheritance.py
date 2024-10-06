@@ -58,3 +58,33 @@ class Student(Person):      # 서브 클래스
 potter = Student('해리포터', '호그와트')
 potter.eat('감자')
 potter.study()
+
+
+
+# 서브 클래스의 init()
+# 서브 클래스의 생성자를 구현할 때는 반드시 슈퍼 클래스의 생성자를 먼저 호출하는 코드를 작성해야 한다.
+# super라는 키워드는 슈퍼 클래스를 의미
+
+class Computer:
+    def __init__(self):
+        print('슈퍼 클래스의 생성자가 실행되었습니다.')
+        
+class NoteBook(Computer):
+    def __init__(self):
+        super().__init__()
+        print('서브 클래스의 생성자가 실행되었습니다.')
+        
+n = NoteBook
+
+
+# 4. 서브 클래스의 인스턴스 자료형
+# 슈퍼 클래스 객체는 슈퍼 클래스의 인스턴스
+# 그에 비해 서브 클래스 객체는 서브 클래스의 인스턴스 이면서 슈퍼 클래스의 인스턴스
+# 즉 서브 클래스의 student의 객체는 서브 클래스 student의 인스턴스 이면서
+# 동시에 슈퍼 클래스 Person의 인스턴스
+
+
+# 어떤 객체가 어떤 클래스의 인스턴스인지 확인하기 위해서 isinstance() 함수를 사용하기도 한다.
+# 객체가 인스턴스일 경우에는 True 아니면 False를 반환
+print(isinstance(potter, Student))
+print(isinstance(potter, Person))
