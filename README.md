@@ -34,19 +34,19 @@
 |5|[Args_Parameter](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/5%20Args_Parameter.py)|[updown_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/5%20updown_game.py)|[Class_step3](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/5%20Class_step3.py)|[Class_Bag](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/5%20Class_Bag.py)
 |6|[return](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/6%20return.py)|[dice_game](https://github.com/inseonyu270/Python/blob/main/Python/6_Module/6%20dice_game.py)|[Class_Object](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/6%20Class_Object.py)|[Class_Person_Prac](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/6%20Class_Person_Prac.py)
 |7|[Coffee_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/7%20Coffee_Machine.py)||[Class_Member](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/7%20Class_Member.py)|[Inheritance](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/7%20Inheritance.py)
-|8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||[Class_self](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/8%20Class_self.py)
-|9|||[Class_Prac](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/9%20Class_Prac.py)|
+|8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||[Class_self](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/8%20Class_self.py)|[Coffee_Bean](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/8%20Coffee_Bean.py)
+|9|||[Class_Prac](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/9%20Class_Prac.py)|[Shop_Prac](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/9%20Shop_Prac.py)
 
-|Number|9_||||
+|Number|9_Exception||||
 |-|-|-|-|-|
-|1|||
-|2|
-|3|
-|4|
-|5|
-|6|
-|7|
-|8|
+|1|[Exception_Logic](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/1%20Exception_Logic.py)||
+|2|[Exception_Doit](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/2%20Exception_Doit.py)
+|3|[Exception_Prac](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/3%20Exception_Prac.py)
+|4|[Variable](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/4%20Variable.py)
+|5|[File_IO](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/5%20File_IO.py)
+|6|[File_OutPut](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/6%20File_Output.py)
+|7|[Schedule_Prac](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/7%20Schedule_Prac.py)
+|8|[File_Input](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/8%20File_Input.py)
 |9|
 |10|
 <!--Py Basic
