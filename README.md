@@ -37,7 +37,7 @@
 |8|[Drnik_Machine](https://github.com/inseonyu270/Python/blob/main/Python/5_Method_Function/8%20Drink_Machine.py)||[Class_self](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/8%20Class_self.py)|[Coffee_Bean](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/8%20Coffee_Bean.py)
 |9|||[Class_Prac](https://github.com/inseonyu270/Python/blob/main/Python/7_Class/9%20Class_Prac.py)|[Shop_Prac](https://github.com/inseonyu270/Python/blob/main/Python/8_Class_Constructor/9%20Shop_Prac.py)
 
-|Number|9_Exception|-|-|-|
+|Number|9_Exception|10_|11_|12_|
 |-|-|-|-|-|
 |1|[Exception_Logic](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/1%20Exception_Logic.py)||
 |2|[Exception_Doit](https://github.com/inseonyu270/Python/blob/main/Python/9_Exception/2%20Exception_Doit.py)
