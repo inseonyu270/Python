@@ -109,3 +109,49 @@ index_list = ['2012', '2013', '2014', '2015', '2016']
 
 df3 = pd.DataFrame(table_data3, columns=colummn_list, index=index_list)
 print(df3)
+
+
+
+# pandas에서 제공하는 통계 메서드는 
+# 원소의 합을 구하는          : sum()
+# 평균                       : mean()
+# 표준 편차                   : std()
+# 분산                       : var()
+# 최솟값                     : min()
+# 최댓값                     : max()
+# 각 원소에 누적 합을 구하는  : cumsum()6
+# 누적 곱                    : cumprod()
+
+print(df3.mean())
+
+print(df3.std())
+
+
+# 연도별로 평균 강수량과 표준 편차를 구할 경우엔 연산의 방향 설정을 위해 axis 인자를 추가
+# axis가 0이면 DataFrame의 values에서 열별로 연산을 수행, 1이면 행별로 연산을 수행
+print(df3.mean(axis=1))
+
+
+# describe()를 이용하면 평균, 표준편차, 최솟값과 최댓값 등을 한번에 구할 수 있다.
+# 25% / 50% / 75% : 백분위 수의 각 지점으로, 분포를 반영해 평균을 보완하는 목적으로도 사용 가능
+print(df3.describe())
+
+
+
+
+
+import pandas as pd
+
+data = {'Name' : ['John', 'Mike', 'Sarah', 'Kate'],
+        'Age'  : [32, 28, 45, 36],
+        'City' : ['Seoul', 'New York', 'Paris', 'London']}
+
+
+# 판다스를 사용해 데이터 프레임에서 Age열의 평균을 구하시오
+# hint : 데이터 프레임은 리스트, 튜플 형식이라 생각하면 편하다.
+
+df = pd.DataFrame(data)
+print(df)
+
+age_avg = df['Age'].mean()
+print(age_avg)
